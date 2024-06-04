@@ -1,4 +1,4 @@
-# LTI Application Boilerplate
+# LTI Application Boilerplate (Flask based)
 
 This repository contains boilerplate code for developing an LTI (Learning Tools Interoperability) application that integrates with Moodle as an LTI Provider.
 
