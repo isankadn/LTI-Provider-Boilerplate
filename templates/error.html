@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LTI Launch Error</title>
+</head>
+<body>
+    <h1>LTI Launch Error</h1>
+    <p>An error occurred during the LTI launch.</p>
+    {% if exception %}
+        <p>Exception: {{ exception }}</p>
+    {% endif %}
+</body>
+</html>
